@@ -5,7 +5,5 @@ Hemoglobin-beta    Human       HBB_HUMAN  P68871
 
 Human
 
-This is a mistake
-
 End of File
 
